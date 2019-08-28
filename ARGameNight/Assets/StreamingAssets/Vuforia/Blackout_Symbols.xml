@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Wave_8" size="0.120650 0.168910" />
+    <ImageTarget name="Wave_7" size="0.120650 0.168910" />
+    <ImageTarget name="Wave_6" size="0.120650 0.168910" />
+    <ImageTarget name="Triangle_8" size="0.120650 0.168910" />
+    <ImageTarget name="Triangle_7" size="0.120650 0.168910" />
+    <ImageTarget name="Triangle_6" size="0.120650 0.168910" />
+    <ImageTarget name="Square_8" size="0.120650 0.168910" />
+    <ImageTarget name="Square_7" size="0.120650 0.168910" />
+    <ImageTarget name="Square_6" size="0.120650 0.168910" />
+    <ImageTarget name="Crown_8" size="0.120650 0.168910" />
+    <ImageTarget name="Crown_7" size="0.120650 0.168910" />
+    <ImageTarget name="Crown_6" size="0.120650 0.168910" />
+    <ImageTarget name="Circle_8" size="0.120650 0.168910" />
+    <ImageTarget name="Circle_7" size="0.120650 0.168910" />
+    <ImageTarget name="Circle_6" size="0.120650 0.168910" />
+    <ImageTarget name="Wave_5" size="0.120650 0.168910" />
+    <ImageTarget name="Wave_4" size="0.120650 0.168910" />
+    <ImageTarget name="Wave_3" size="0.120650 0.168910" />
+    <ImageTarget name="Wave_2" size="0.120650 0.168910" />
+    <ImageTarget name="Wave_1" size="0.120650 0.168910" />
+    <ImageTarget name="Triangle_5" size="0.120650 0.168910" />
+    <ImageTarget name="Triangle_4" size="0.120650 0.168910" />
+    <ImageTarget name="Triangle_3" size="0.120650 0.168910" />
+    <ImageTarget name="Triangle_2" size="0.120650 0.168910" />
+    <ImageTarget name="Triangle_1" size="0.120650 0.168910" />
+    <ImageTarget name="Square_5" size="0.120650 0.168910" />
+    <ImageTarget name="Square_4" size="0.120650 0.168910" />
+    <ImageTarget name="Square_3" size="0.120650 0.168910" />
+    <ImageTarget name="Square_2" size="0.120650 0.168910" />
+    <ImageTarget name="Square_1" size="0.120650 0.168910" />
+    <ImageTarget name="Crown_5" size="0.120650 0.168910" />
+    <ImageTarget name="Crown_4" size="0.120650 0.168910" />
+    <ImageTarget name="Crown_3" size="0.120650 0.168910" />
+    <ImageTarget name="Crown_2" size="0.120650 0.168910" />
+    <ImageTarget name="Crown_1" size="0.120650 0.168910" />
+    <ImageTarget name="Circle_5" size="0.120650 0.168910" />
+    <ImageTarget name="Circle_4" size="0.120650 0.168910" />
+    <ImageTarget name="Circle_3" size="0.120650 0.168910" />
+    <ImageTarget name="Circle_2" size="0.120650 0.168910" />
+    <ImageTarget name="Circle_1" size="0.120650 0.168910" />
+  </Tracking>
+</QCARConfig>
